@@ -26,7 +26,10 @@
 
 HTML 是构建网页的骨骼，第一步就是学会搭建骨骼。
 
-##### 2️⃣ [CSS 基础](https://nodelover.me/course/css-basic) 🆓
+##### 2️⃣ CSS
+
+* [CSS 基础](https://nodelover.me/course/css-basic) 🆓
+* [CSS3](https://nodelover.me/course/css3) 🆓
 
 CSS 是网页的血与肉，一个人的颜值取决于五官与胖瘦，网页的美观取决于样式。
 
@@ -147,7 +150,7 @@ Egg.js 是阿里巴巴的企业级 Node.js 框架，约定优先的哲学。
 
 * [RabbitMQ 队列](https://nodelover.me/course/rabbitmq)
 
-##### 设计
+##### ☂️ 设计
 
 * [Photoshop 修仙封魔录](http://ps-xiuxian.nodelover.me/) 🆓
 * [Sketch 设计实例](https://nodelover.me/course/introduction-to-Sketch-instances) 🆓
