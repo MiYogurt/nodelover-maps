@@ -41,7 +41,7 @@ JavaScript 是奇经八脉，它可以让你的网页能歌善舞。
 * [JavaScript 语法](https://nodelover.me/course/js-start-1) 🆓
 * [JavaScript 全局对象](https://nodelover.me/course/js-start-2) 🆓
 * [JavaScript 正则表达式](https://nodelover.me/course/regexp) 🆓
-* [JavaScript Canvas 动画]https://nodelover.me/course/canvas) 🆓
+* [JavaScript Canvas 动画](https://nodelover.me/course/canvas) 
 * [ES 6 入门](https://nodelover.me/course/es6) 🆓
 * [JavaScript 异步控制流](https://nodelover.me/course/js-async) 🆓
 
