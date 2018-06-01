@@ -30,6 +30,7 @@ HTML 是构建网页的骨骼，第一步就是学会搭建骨骼。
 
 * [CSS 基础](https://nodelover.me/course/css-basic) 🆓
 * [CSS3](https://nodelover.me/course/css3) 🆓
+* [Flex 布局](https://nodelover.me/course/css-flex) 🆓
 
 CSS 是网页的血与肉，一个人的颜值取决于五官与胖瘦，网页的美观取决于样式。
 
@@ -40,6 +41,7 @@ JavaScript 是奇经八脉，它可以让你的网页能歌善舞。
 * [JavaScript 语法](https://nodelover.me/course/js-start-1) 🆓
 * [JavaScript 全局对象](https://nodelover.me/course/js-start-2) 🆓
 * [JavaScript 正则表达式](https://nodelover.me/course/regexp) 🆓
+* [JavaScript Canvas 动画]https://nodelover.me/course/canvas) 🆓
 * [ES 6 入门](https://nodelover.me/course/es6) 🆓
 * [JavaScript 异步控制流](https://nodelover.me/course/js-async) 🆓
 
