@@ -18,6 +18,14 @@
 
 具体到职业，我大概经历了那么几个阶段。什么都不知道，html 是什么？css 是什么？jquery 是什么？这就是第一个阶段，百问阶段。学习了一段时间后，基本上了解一个页面是如何组成的了，可以自己独立的写一些简单的小界面，但是熟练度不行，这是第二个阶段，开始需要熟练 API，其实前端的 API 比后端的多很多，前端可以精分出来的职业也比较多，这个时间是最长的，可能一年，也可能两年，并非到第三第四阶段，第二阶段就结束了。在这期间，你会遇到一些效果，自己怎么做都没有思路，好像 API 就这些，但是为啥我就做不出来呢？然后你就各种找插件去拼凑出自己的效果，但是现在你对内部的实现原理还是一知半解的，至少现在你能把东西都做出来了，你可能会出现一个膨胀期，简历上写出各种精通、精通、精通。待你真正遇到需要定制化的问题的时候，就会变的寸步难行了，所以你开始了研究源码之路，包括学习各种新技术，研究了一段时间之后，源码是一碗水，你喝完之后，发现它变成了一桶水，再喝完之后变成了一池子的水，最后发现这简直就是一片汪洋大海，自己根本喝不完这么多。然后这辈子就这么完了，找不到岸边在哪儿了。现在剩下的只有谦虚。其实这么多水，每一种水都有一种味道的话，相信到了现在你会忘记某一次喝的水的味道了。技术点不重要，重要的是以后的修仙路，给自己铺路。
 
+### 我的推荐 🚨
+
+* [InterviewMap](https://github.com/InterviewMap/InterviewMap/blob/master/README-ZH.md) 前端知识点
+* [node-interview](https://github.com/ElemeFE/node-interview) 饿了么的 Node 面试指南
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) 谷歌的面试指南
+* [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) 面试笔记
+* [front-end-handbook](https://github.com/xitu/front-end-handbook-2017) 前端手书
+
 ### 🌠 构建静态网页
 
 ##### 1️⃣ [90 分钟 HTML](https://nodelover.me/course/90-minutes-in-html) 🆓
