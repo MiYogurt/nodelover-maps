@@ -20,11 +20,17 @@
 
 ### 我的推荐 🚨
 
+<b>知识图谱</b>
+
 * [InterviewMap](https://github.com/InterviewMap/InterviewMap/blob/master/README-ZH.md) 前端知识点
 * [node-interview](https://github.com/ElemeFE/node-interview) 饿了么的 Node 面试指南
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) 谷歌的面试指南
 * [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) 面试笔记
 * [front-end-handbook](https://github.com/xitu/front-end-handbook-2017) 前端手书
+
+<b>前端特效类</b>
+
+* [comehope 的特效连载](https://github.com/comehope/front-end-daily-challenges) 张偶的特效连载
 
 ### 🌠 构建静态网页
 
