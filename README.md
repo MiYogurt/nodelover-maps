@@ -175,6 +175,9 @@ Egg.js 是阿里巴巴的企业级 Node.js 框架，约定优先的哲学。
 
 ##### ☂️ 设计
 
-* [Photoshop 修仙封魔录](http://ps-xiuxian.nodelover.me/) 🆓
 * [Sketch 设计实例](https://nodelover.me/course/introduction-to-Sketch-instances) 🆓
 * [Sketch iMovie 设计实践](https://nodelover.me/course/sketch-imovie)
+
+#### 捐赠入口
+
+![](./pay.png)
